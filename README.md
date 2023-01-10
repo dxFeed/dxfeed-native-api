@@ -10,6 +10,7 @@ API features via dxfeed-graal-native-api as a backend
 - dxFeed Native Graal API v1.0.0
 - catch2 v3.1.0 
 - utfcpp v3.2.1
+- fmt v9.1.0
 
 
 # TBD

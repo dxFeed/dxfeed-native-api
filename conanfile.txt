@@ -3,6 +3,7 @@
 [requires]
 catch2/3.1.0
 utfcpp/3.2.1
+fmt/9.1.0
 
 [generators]
 cmake_find_package
